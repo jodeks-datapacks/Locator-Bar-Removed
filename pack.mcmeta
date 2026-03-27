@@ -1,0 +1,63 @@
+{
+  "pack": {
+    "pack_format": 80,
+    "description": [
+      {
+        "text": "\"Locator Bar Removed\" (locator_bar_removed)"
+      },
+      "\n",
+      {
+        "translate": "locator_bar_removed.description",
+        "fallback": "Removes the locator bar",
+        "color": "#aaaaaa"
+      },
+      "\n\n",
+      {
+        "translate": "jodek.version",
+        "fallback": "Version"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "1.0.0",
+        "color": "#55ff55"
+      },
+      {
+        "text": " "
+      },
+      {
+        "translate": "jodek.for_minecraft",
+        "fallback": "for Minecraft"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "1.21.6",
+        "color": "#55ff55"
+      },
+      "\n",
+      {
+        "translate": "jodek.by",
+        "fallback": "by"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Jodek",
+        "color": "#ffff55"
+      }
+    ]
+  },
+  "overlays": {
+    "entries": [
+      {
+        "directory": "overlay-94",
+        "min_format": 94,
+        "max_format": 999
+      }
+    ]
+  }
+}
